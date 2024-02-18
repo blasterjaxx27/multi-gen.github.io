@@ -1,0 +1,3 @@
+[16-Jun-2021 13:59:29 Europe/Warsaw] PHP Warning:  require(inc/fonctions.php): failed to open stream: No such file or directory in /home/saturneg/public_html/manager/crack/index.php on line 2
+[16-Jun-2021 13:59:29 Europe/Warsaw] PHP Warning:  require(inc/fonctions.php): failed to open stream: No such file or directory in /home/saturneg/public_html/manager/crack/index.php on line 2
+[16-Jun-2021 13:59:29 Europe/Warsaw] PHP Fatal error:  require(): Failed opening required 'inc/fonctions.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/saturneg/public_html/manager/crack/index.php on line 2
